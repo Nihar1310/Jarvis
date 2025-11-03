@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-cloud-vision
+google-cloud-storage
+pypdf
+pytz
+pandas
+beautifulsoup4
+sqlalchemy
+psycopg2-binary
+chromadb
+jinja2
